@@ -1,6 +1,6 @@
 # Choosealicense.com
 
-[![Build Status](https://travis-ci.org/github/choosealicense.com.png?branch=gh-pages)](https://travis-ci.org/github/choosealicense.com)
+[![Build Status](https://david-dm.org/fellowshiptech/coordinatorclient/dev-status.svg)](https://travis-ci.org/github/choosealicense.com)
 
 Like a Choose Your Own Adventure site, but only much less interesting.
 
